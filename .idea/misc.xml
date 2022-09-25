@@ -4,7 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/GPS/Mobility_IOT/app/src/main/res/layout-port-night/login_page.xml" value="0.253125" />
+        <entry key="..\:/GPS/Mobility_IOT/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
         <entry key="..\:/GPS/Mobility_IOT/app/src/main/res/layout/activity_main.xml" value="0.1921875" />
+        <entry key="..\:/GPS/Mobility_IOT/app/src/main/res/layout/fragment_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/GPS/Mobility_IOT/app/src/main/res/layout/fragment_loginpage.xml" value="0.3958573072497123" />
+        <entry key="..\:/GPS/Mobility_IOT/app/src/main/res/layout/fragment_welcomepage.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
