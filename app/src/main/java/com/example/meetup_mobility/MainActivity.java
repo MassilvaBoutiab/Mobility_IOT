@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 //used this video for navigation https://youtu.be/DI0NIk-7cz8
+//this is the main code
 public class MainActivity extends AppCompatActivity {
 
     @Override
